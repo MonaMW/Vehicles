@@ -1,0 +1,8 @@
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.AssemblyReference.cache
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.SuggestedBindingRedirects.cache
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\010 Projects\002_Vehicles\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
